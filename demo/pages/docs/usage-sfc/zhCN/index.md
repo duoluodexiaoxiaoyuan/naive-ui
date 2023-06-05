@@ -1,6 +1,6 @@
 <!--anchor:on-->
 
-# 在 SFC 中使用
+# 在 SFC (Single File Component 单文件组件) 中使用
 
 你可以选择直接引入或全局安装在 Vue App 中。
 
